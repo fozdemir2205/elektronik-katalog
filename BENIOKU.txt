@@ -1,0 +1,51 @@
+ELEKTRONİK ÜRÜN KATALOĞU — KULLANIM REHBERİ
+============================================
+
+Kurulum gerekmez, internet gerekmez. Google Chrome veya Microsoft Edge önerilir.
+
+
+1) ÜRÜNLERİ YÖNETMEK  →  yonetim.html
+-------------------------------------
+- yonetim.html dosyasına çift tıklayın.
+- İlk iş: "⚙ Ayarlar" ile mağaza adı, telefon, adres ve (isterseniz) logo girin.
+- "＋ Yeni ürün" ile ürün ekleyin: ad, fiyat, stok, kategori, marka,
+  açıklama, fotoğraflar ve teknik özellikler.
+    • Fiyat: 24.999 veya 24999,90 şeklinde yazabilirsiniz.
+    • Fiyatı boş bırakırsanız katalogda "Fiyat sorunuz" yazar.
+    • İlk fotoğraf kapak olur; ◀ ▶ ile sırayı değiştirebilirsiniz.
+    • Stok adedi sadece yönetimde görünür, müşteri görmez.
+- Listedeki anahtar ile ürünü katalogda gizleyip gösterebilirsiniz.
+- ↑ ↓ ile ürünlerin katalogdaki sırasını değiştirebilirsiniz.
+
+Ürünler bu bilgisayarda, tarayıcının içinde saklanır. Bu yüzden:
+    • yonetim.html'i hep AYNI tarayıcıyla açın.
+    • Dosyayı başka klasöre taşırsanız ürünler görünmeyebilir;
+      taşımadan önce yedek alın, taşıdıktan sonra yedekten yükleyin.
+    • Tarayıcı geçmişini/verilerini "tümünü" temizlemek ürünleri silebilir.
+
+
+2) MÜŞTERİYE GÖSTERMEK  →  katalog
+----------------------------------
+- "📦 Kataloğu oluştur" butonuna basın.
+- İndirilenler klasörüne "katalog-YYYY-AA-GG.html" adlı tek bir dosya iner.
+  Fotoğraflar dahil her şey bu dosyanın içindedir.
+- Bu dosyayı:
+    • çift tıklayıp kendi bilgisayarınızda müşteriye gösterebilir,
+    • WhatsApp / e-posta ile gönderebilirsiniz (telefonda da açılır).
+- Müşteri katalogda arama, kategori/marka filtresi ve fiyat sıralaması
+  yapabilir; ürüne tıklayınca fotoğraflar ve teknik özellikler açılır.
+  Katalogdan ürün düzenlenemez.
+- "👁 Önizle" ile dosya indirmeden kataloğu görebilirsiniz.
+
+ÖNEMLİ: Ürünlerde değişiklik yaptıktan sonra kataloğu yeniden oluşturun.
+Eski katalog dosyaları kendiliğinden güncellenmez.
+
+
+3) YEDEK ALMAK
+--------------
+- "💾 Yedek al" tüm ürünleri ve ayarları bir .json dosyasına kaydeder.
+- Değişiklik yaptıktan sonra sarı uyarı çıkar; ara sıra yedek alın ve
+  dosyayı USB / Google Drive gibi güvenli bir yere de kopyalayın.
+- "📂 Yedekten yükle" ile yedeği geri yükleyebilirsiniz
+  (mevcut ürünlerin yerine geçer). Yeni bir bilgisayara geçerken de
+  bu yolu kullanın.
